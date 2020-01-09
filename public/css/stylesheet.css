@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'Halis GR';
+    src: url('HalisGR-Bold.woff2') format('woff2'),
+        url('HalisGR-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Halis GR';
+    src: url('HalisGR-Light.woff2') format('woff2'),
+        url('HalisGR-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+}
